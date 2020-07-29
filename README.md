@@ -1,4 +1,4 @@
-# MotionSensorSound - Uses Kano motion sensor to play sounds from the command line
+# MotionSensorSound - Use the Kano motion sensor to play sounds
 -------------------------------------------------------------
 To run, plug in your motion sensor then copy the following code and run it in the terminal:
 
