@@ -2,4 +2,4 @@
 -------------------------------------------------------------
 To run, plug in your motion sensor then copy the following code and run it in the terminal:
 
-git clone https://github.com/ethandgoodhart/MotionSensorSound/edit/master/README.md; cd MotionSensorSound; python bark.py
+git clone https://github.com/ethandgoodhart/MotionSensorSound.git; cd MotionSensorSound; python bark.py
